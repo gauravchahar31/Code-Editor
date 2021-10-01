@@ -1,0 +1,47 @@
+body{
+    background-color: #393E46;
+}
+
+#head{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    color: whitesmoke;
+}
+
+#subhead{
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+#code_select{
+    margin-top: 10%;
+}
+
+#code_id{
+    height: 20px;
+    position: relative;
+    left: 0%;
+    font-size: 15px;
+    background-color: #00ADB5;
+    color: whitesmoke;
+}
+
+#input{
+    background-color: #AAD8D3;
+}
+
+#output{
+    background-color: #00ADB5;
+    color: whitesmoke
+
+}
+
+#Sumbit, #Reset{
+    height: 35px;
+    width: 100px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+}
